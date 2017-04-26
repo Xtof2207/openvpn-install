@@ -25,10 +25,11 @@ Working in org or cn mode
 
 Easy-Rsa 3.0.1
 
-Features to add :
+Features to add (will act as reminder to me) :
 - Manage more then one openvpn services on one computer
 - VPN IP address range to manage (for the moment, fixed in script)
 - Modify vars via questions and answers (2048/4096 encryption, org/cn mode, Country, Province etc....)
 - Manage traffic direction (All traffic via VPN or just for routed networks)
 - Make working together OVPN + OTP
 - Add monitoring management functions
+- Manage Tun/Tap and ccd 
