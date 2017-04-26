@@ -19,6 +19,8 @@ This script is based on work from https://github.com/Nyr/openvpn-install, same l
 - if without password you will get an .ovpn file all included
 - with password, you will get a .zip file with cert, key, ovpn files needed inside
 
+### Save / Restore function added
+
 Working in org or cn mode
 
 Easy-Rsa 3.0.1
