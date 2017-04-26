@@ -16,8 +16,8 @@ Once it ends, you can run it again to add more users, remove some of them or eve
 This script is based on work from https://github.com/Nyr/openvpn-install, same licence apply
 
 ### Creating users (option 4 & 5)
-if without password you will get an .ovpn file all included
-with password, you will get a .zip file with cert, key, ovpn files needed inside
+- if without password you will get an .ovpn file all included
+- with password, you will get a .zip file with cert, key, ovpn files needed inside
 
 Working in org or cn mode
 
@@ -29,3 +29,4 @@ Features to add :
 - Modify vars via questions and answers (2048/4096 encryption, org/cn mode, Country, Province etc....)
 - Manage traffic direction (All traffic via VPN or just for routed networks)
 - Make working together OVPN + OTP
+- Add monitoring management functions
