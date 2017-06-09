@@ -363,7 +363,6 @@ verb 3" > /etc/openvpn/client-common.txt
 	newclient "$CLIENT"
 	echo ""
 	echo "Client $CLIENT added, configuration is available at" /etc/openvpn/easy-rsa/ovpn/"$CLIENT.ovpn"
-	echo "If you want to add more clients, you simply need to run this script again!"
 	read -n1 -r -p "Press any key to continue..."
 }
 
@@ -378,7 +377,6 @@ verb 3" > /etc/openvpn/client-common.txt
 	newclient_pwd "$CLIENT"
 	echo ""
 	echo "Client $CLIENT added, configuration is available at" /etc/openvpn/easy-rsa/ovpn/"$CLIENT/$CLIENT.zip"
-	echo "If you want to add more clients, you simply need to run this script again!"
 	read -n1 -r -p "Press any key to continue..."
 }
 
