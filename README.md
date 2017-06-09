@@ -34,4 +34,4 @@ Features to add (will act as reminder to me) :
 - Manage traffic direction (All traffic via VPN or just for routed networks)
 - Make working together OVPN + OTP
 - Add monitoring management functions
-- Manage Tun/Tap and ccd 
+- Manage Tun/Tap
