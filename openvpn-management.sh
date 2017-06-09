@@ -350,6 +350,7 @@ client-config-dir ccd
 setenv opt block-outside-dns
 key-direction 1
 verb 3" > /etc/openvpn/client-common.txt
+mkdir /etc/openvpn/ccd
 	fi
 }
 
