@@ -25,9 +25,10 @@ This script is based on work from https://github.com/Nyr/openvpn-install, same l
 
 Working in org or cn mode
 
-Easy-Rsa 3.0.1
+### Misc
+- config-client-directory (ccd) added (20170609)
 
-Features to add (will act as reminder to me) :
+### Features to add (will act as reminder to me) :
 - Manage more then one openvpn services on one computer
 - VPN IP address range to manage (for the moment, fixed in script)
 - Modify vars via questions and answers (2048/4096 encryption, org/cn mode, Country, Province etc....)
